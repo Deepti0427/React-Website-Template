@@ -12,7 +12,7 @@ React Website template used for website development
 ##Recommended Formatting
 
 ### JSX Formatting
-* React components are bootstrapped starting in js/index.  
+* React components are bootstrapped starting with js/index.  
 * All JSX templates use JSX Harmony (ES6) styling.  
 * Refer to Hello.jsx for examples.  
 
